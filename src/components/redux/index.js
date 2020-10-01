@@ -1,2 +1,5 @@
 export {buyCake} from './cake/cakeActions'
-export {buyIceCream} from './iceCream/iceCreamActions'
+export {buyVanIC} from './iceCream/iceCreamActions'
+export {buyChocIC} from './iceCream/iceCreamActions'
+export {buyStrawIC} from './iceCream/iceCreamActions'
+export {orderIC} from './iceCream/iceCreamActions'
