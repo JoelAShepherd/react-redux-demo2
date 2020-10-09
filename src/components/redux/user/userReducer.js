@@ -1,4 +1,4 @@
-const { FETCH_USERS_REQUEST, FETCH_USERS_SUCCESS, FETCH_USERS_FAILURE } = require("./usertypes")
+const { FETCH_USERS_REQUEST, FETCH_USERS_SUCCESS, FETCH_USERS_FAILURE } = require("./userTypes")
 
 const initialState ={
     loading: true,
